@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netCoreExercise", "netCoreExercise.csproj", "{0782399F-661E-4256-B159-DBA93305457E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webApp", "..\webApp\webApp.csproj", "{B1CDF285-B0CD-4B16-B02D-9CD7C64D4FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0782399F-661E-4256-B159-DBA93305457E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0782399F-661E-4256-B159-DBA93305457E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0782399F-661E-4256-B159-DBA93305457E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0782399F-661E-4256-B159-DBA93305457E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CDF285-B0CD-4B16-B02D-9CD7C64D4FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CDF285-B0CD-4B16-B02D-9CD7C64D4FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CDF285-B0CD-4B16-B02D-9CD7C64D4FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CDF285-B0CD-4B16-B02D-9CD7C64D4FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB692E9-498A-4FD8-BED7-FDDEA216DD1F}
+	EndGlobalSection
+EndGlobal
