@@ -1,7 +1,3 @@
 
-BookStore/bin/
-BookStore/obj/
-Linq/bin/
-Linq/obj/
-webApp/bin/
-webApp/obj/
+*/bin/
+*/obj/
